@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4%;
+  height: 14vh;
+
+  nav {
+    width: 30%;
+  
+    ul {
+      display: flex;
+      justify-content: space-between;
+  
+      a {
+        color: #3E3970;
+        font-size: 32px;
+        font-weight: 700;
+  
+        &:hover{
+          text-shadow: 2px 2px 5px #8dabff;
+          color: #00229c;
+        }
+      }
+    }
+  }
+}

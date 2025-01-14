@@ -1,0 +1,26 @@
+
+.main{
+  height: 76vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.containerBoasFestas {
+  width: 35%;
+  text-align: end;
+
+  h3 {
+    font-size: 36px;
+    font-weight: 300;
+  }
+  h2{
+    font-size: 50px;
+    font-weight: 700;
+  }
+}
+
+.containerPoema {
+  font-size: 28px;
+  line-height: 40.54px;
+}
